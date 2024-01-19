@@ -6,7 +6,7 @@
 
 <p>This project involves creating a comprehensive sales dashboard using PowerBI, visualizing the performance of a superstore. The accompanying forecasting feature predicts sales for the next 15 days. The dataset, "Superstore_Sales_Dataset.csv," provides the necessary information for analysis and visualization.</p>
 
-<h2>Note: This is an interactive dashboard, allowing viewers to explore and analyze the data interactively. Feel free to click on various elements to get a deeper understanding of the insights presented.</h2>
+<h2>Note: This is an interactive dashboard, allowing viewers to explore and analyze the data interactively. Feel free to Download and click on various elements to get a deeper understanding of the insights presented.</h2>
 <h3>Files</h3>
 
 <p>Superstore_Sales_Dataset.csv: Dataset containing sales data for the superstore.</p>
