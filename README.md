@@ -8,7 +8,7 @@
 
 <h3>Files</h3>
 
-<p>**Superstore_Sales_Dataset.csv**: Dataset containing sales data for the superstore.</p>
+<p>Superstore_Sales_Dataset.csv: Dataset containing sales data for the superstore.</p>
 <p>Superstore Sales Dashboard & Forecasting.pbix: PowerBI file containing the complete dashboard and forecasting model.</p>
 
 <h3>Dashboard Screenshots</h3>
@@ -25,7 +25,8 @@
 <p>Open the file using PowerBI Desktop.</p>
 <p>Connect the PowerBI file to the provided dataset, "Superstore_Sales_Dataset.csv."</p>
 <p>Interact with the dashboard visuals for a dynamic and engaging experience.</p>
-<p>Note: This is an interactive dashboard, allowing viewers to explore and analyze the data interactively. Feel free to click on various elements to get a deeper understanding of the insights presented.</p>
+
+<h1>Note: This is an interactive dashboard, allowing viewers to explore and analyze the data interactively. Feel free to click on various elements to get a deeper understanding of the insights presented.</h1>
 
 <h3>Data Source</h3>
 
